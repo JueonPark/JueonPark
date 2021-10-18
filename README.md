@@ -3,7 +3,7 @@
     - Deep Learning Frameworks such as TensorFlow, PyTorch, ONNX and etc.,
     - Deep Learning Accelerators,
     - and most of all, Deep Learning Compilers.
-- 🌱 I’m currently studing Deep Learning Optimizations & Deep Learning Accelerations, especially with related to **Deep Learning Compilers**.
+- 🌱 I’m currently studing **Deep Learning Compilers**.
 <!--- - 💞️ I’m looking to collaborate on ... --->
 - 📫 How to reach me - email me! jueonpark11 at gamil dot com
 
