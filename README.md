@@ -1,4 +1,4 @@
-*** I am graduating my MS degree on January or February, 2023.***
+**I am graduating my MS degree on January or February, 2023**
 
 - 👋 Hi, I’m @JueonPark
 - 👀 I’m interested in 
