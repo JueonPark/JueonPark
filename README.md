@@ -1,3 +1,5 @@
+*** I am graduating my MS degree on January or February, 2023.***
+
 - 👋 Hi, I’m @JueonPark
 - 👀 I’m interested in 
     - Deep Learning Frameworks such as TensorFlow, PyTorch, ONNX and etc.,
@@ -6,6 +8,7 @@
 - 🌱 I’m currently studing **Deep Learning Compilers**.
 <!--- - 💞️ I’m looking to collaborate on ... --->
 - 📫 How to reach me - email me! jueonpark11 at gamil dot com
+- 📫 Another way to reach me - visit https://www.linkedin.com/in/jueonpark11/
 
 <!---
 JueonPark/JueonPark is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
