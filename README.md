@@ -4,6 +4,7 @@
 - 👀 I’m interested in 
     - Machine Learning Optimizations,
     - Deep Learning Accelerators,
+    - MLOps,
     - and most of all, Deep Learning Compilers.
 - 🌱 I’m currently studing **Deep Learning Compilers**.
 <!--- - 💞️ I’m looking to collaborate on ... --->
