@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @JueonPark
 - 👀 I’m interested in 
-    - Deep Learning Frameworks such as TensorFlow, PyTorch, ONNX and etc.,
+    - Machine Learning Optimizations,
     - Deep Learning Accelerators,
     - and most of all, Deep Learning Compilers.
 - 🌱 I’m currently studing **Deep Learning Compilers**.
