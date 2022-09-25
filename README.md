@@ -10,7 +10,7 @@
 - 📫 How to reach me - email me! jueonpark11 at gamil dot com
 - 📫 Another way to reach me - visit https://www.linkedin.com/in/jueonpark11/
 
-**See my CV [here](https://github.com/JueonPark/JueonPark/files/9641458/CV.pdf)!
+**See my CV [here](https://github.com/JueonPark/JueonPark/files/9641458/CV.pdf)!**
 
 <!---
 JueonPark/JueonPark is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
