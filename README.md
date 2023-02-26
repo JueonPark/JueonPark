@@ -1,4 +1,4 @@
-**I am graduating on January or February, 2023**
+**A compiler enginner @[Rebellions Inc.](https://rebellions.ai/)**
 
 - 👋 Hi, I’m @JueonPark
 - 👀 I’m interested in 
