@@ -1,4 +1,4 @@
-**A compiler enginner @[Rebellions Inc.](https://rebellions.ai/)**
+**A Compiler Enginner @[Rebellions Inc.](https://rebellions.ai/)**
 
 - 👋 Hi, I’m @JueonPark
 - 👀 I’m interested in 
