@@ -5,7 +5,7 @@
     - Machine Learning Optimizations,
     - Deep Learning Accelerators,
     - and most of all, Deep Learning Compilers.
-- 🌱 I’m currently studing **Deep Learning Compilers**.
+- 🌱 I’m currently working on **Deep Learning Compilers**.
 <!--- - 💞️ I’m looking to collaborate on ... --->
 - 📫 How to reach me - email me! jueonpark11 at gamil dot com
 - 📫 Another way to reach me - visit https://www.linkedin.com/in/jueonpark11/
